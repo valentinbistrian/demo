@@ -1,0 +1,133 @@
+.elementor-29393 .elementor-element.elementor-element-3108a1f:not(.elementor-motion-effects-element-type-background),
+.elementor-29393 .elementor-element.elementor-element-3108a1f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("http://atura.like-themes.com/wp-content/uploads/2021/12/footer-bg.png");
+    background-position: 60% 100%;
+    background-repeat: no-repeat;
+}
+
+.elementor-29393 .elementor-element.elementor-element-3108a1f {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 70px 0px 120px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-3108a1f>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-29393 .elementor-element.elementor-element-8f5b5b6.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-29393 .elementor-element.elementor-element-80d4d7f>.elementor-widget-container {
+    margin: 0px 0px 30px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-80d4d7f {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-29393 .elementor-element.elementor-element-925b068 .elementor-spacer-inner {
+    height: 12px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-f79f7f5 {
+    text-align: center;
+    width: 480px;
+    max-width: 480px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-f79f7f5>.elementor-widget-container {
+    margin: 0px 0px 24px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-39965dd .elementor-spacer-inner {
+    height: 12px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-074bf1c>.elementor-widget-container {
+    margin: 0px 0px 64px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-074bf1c {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-29393 .elementor-element.elementor-element-6c54cde .elementor-spacer-inner {
+    height: 12px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-235860e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-235860e {
+    width: auto;
+    max-width: auto;
+}
+
+@media(max-width:991px) {
+    .elementor-29393 .elementor-element.elementor-element-8f5b5b6.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content: center;
+    }
+    .elementor-29393 .elementor-element.elementor-element-80d4d7f {
+        width: auto;
+        max-width: auto;
+    }
+    .elementor-29393 .elementor-element.elementor-element-f79f7f5 {
+        text-align: center;
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-29393 .elementor-element.elementor-element-074bf1c {
+        width: 274px;
+        max-width: 274px;
+    }
+    .elementor-29393 .elementor-element.elementor-element-235860e {
+        width: auto;
+        max-width: auto;
+    }
+}
+
+@media(max-width:1366px) and (min-width:768px) {
+    .elementor-29393 .elementor-element.elementor-element-8f5b5b6 {
+        width: 100%;
+    }
+}
+
+@media(max-width:1199px) and (min-width:768px) {
+    .elementor-29393 .elementor-element.elementor-element-8f5b5b6 {
+        width: 50%;
+    }
+}
+
+@media(max-width:991px) and (min-width:768px) {
+    .elementor-29393 .elementor-element.elementor-element-8f5b5b6 {
+        width: 100%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-29393 .elementor-element.elementor-element-8f5b5b6 {
+        width: 100%;
+    }
+    .elementor-29393 .elementor-element.elementor-element-8f5b5b6.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content: center;
+    }
+    .elementor-29393 .elementor-element.elementor-element-80d4d7f {
+        width: auto;
+        max-width: auto;
+    }
+    .elementor-29393 .elementor-element.elementor-element-f79f7f5 {
+        text-align: center;
+    }
+    .elementor-29393 .elementor-element.elementor-element-074bf1c {
+        width: 248px;
+        max-width: 248px;
+    }
+    .elementor-29393 .elementor-element.elementor-element-235860e {
+        width: auto;
+        max-width: auto;
+    }
+}
